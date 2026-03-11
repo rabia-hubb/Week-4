@@ -6,4 +6,4 @@ while i < n:
         print(j)
     i = i * 2
 
-    nlgn time complexity
+    nlogn time complexity
